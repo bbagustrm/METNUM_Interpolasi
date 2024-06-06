@@ -1,4 +1,4 @@
-#Implementasi Interpolasi Pada Studi Kasus
+# Implementasi Interpolasi Pada Studi Kasus
 
 Sebuah pengukuran fisika interpolasi lagrange telah dilakukan untuk menentukan hubungan antara tegangan yang diberikan kpada baja tahan-karat dan waktu yang diperlukan hingga baja tersebut patah. Delapan nilai tegangan yang berbeda dicobakan, dan data yang dihasilkan adalah?
 
